@@ -1,0 +1,19 @@
+{
+  "name": "my-ejs-loader",
+  "version": "1.0.0",
+  "description": "a simple ejs loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxihai123/my-ejs-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxihai123/my-ejs-loader/issues"
+  },
+  "homepage": "https://github.com/xuxihai123/my-ejs-loader#readme",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
